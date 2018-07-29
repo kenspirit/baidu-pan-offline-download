@@ -1,0 +1,20 @@
+{
+  "name": "baidu-pan-offline-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Chen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.23",
+    "lodash": "^4.17.10",
+    "random-js": "^1.0.8",
+    "tesseract.js": "^1.0.10"
+  }
+}
